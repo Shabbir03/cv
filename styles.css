@@ -63,10 +63,11 @@ p{
     line-height: 2;
 }
 hr{
-    border: dotted #EAF6F6 6px;
+    border: dotted rgb(52, 50, 50) 6px;
     border-bottom: none;
     width: 4%;
     margin: 100px auto 100px auto;
+    
 }
 .btn {
     background: #11cdd4;
